@@ -38,11 +38,10 @@ namespace FileDownloader
             if (IsDownloaded() == true)
             {
                 MessageBox.Show("Downloaded successfully");
+                AddDownloadedFile();
 
             } 
             else MessageBox.Show("Download is failed");
-
-            AddDownloadedFile();
         }
 
         //проверка, скачан ли файл
