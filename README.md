@@ -1,6 +1,6 @@
 # File Downloader
 
-![GitHub code size in bytes](https://img.shields.io/github/repo-size/v-andrusenko/File_Downloader) ![GitHub issues](https://img.shields.io/github/downloads/v-andrusenko/File_Downloader/total)
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/v-andrusenko/file-downloader) ![GitHub issues](https://img.shields.io/github/downloads/v-andrusenko/file-downloader/total)
 
 The "File Downloader" application is intended for downloading various files by URL and the ability to view them.
 
