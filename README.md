@@ -15,7 +15,7 @@ The "File Downloader" application is intended for downloading various files by U
 
 ## Installation
 
-To install the project clone the repository by ``` git clone https://github.com/v-andrusenko/File_Downloader.git```
+To install the project clone the repository by ``` git clone https://github.com/v-andrusenko/file-downloader.git```
 
 ## Usage
 
