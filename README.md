@@ -4,7 +4,7 @@
 
 The "File Downloader" application is intended for downloading various files by URL and the ability to view them.
 
-![](https://raw.githubusercontent.com/v-andrusenko/File_Downloader/master/downloader.gif) 
+![downloader](https://user-images.githubusercontent.com/70683676/126903909-4c168d7b-1d0d-48dd-9c4f-fd4c235eac69.gif)
 
 ## Instruments
 
