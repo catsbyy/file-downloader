@@ -20,7 +20,7 @@ To install the project clone the repository by ``` git clone https://github.com/
 ## Usage
 
 1. Set the git and the repository in the execution environment.
-2. Set the right address of the "Downloaded" folder (filePath) in MainWindow.cs
+2. Set the right address of the "Downloaded" folder (filePath) in MainWindow.xaml.cs
 3. Run the app in your environment.
 
 ## Contributing
